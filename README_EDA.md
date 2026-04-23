@@ -1,4 +1,4 @@
-# Proyecto EDA - Campaña de Marketing Bancario 🏦
+# Proyecto EDA - Campaña de Marketing Bancario
 
 ## Descripción
 
@@ -54,20 +54,3 @@ proyecto_eda/
 
 ---
 
-## Tecnologías utilizadas
-
-- Python 3
-- Pandas, NumPy
-- Matplotlib, Seaborn
-- Jupyter Notebook / VS Code
-
----
-
-## Cómo ejecutar el proyecto
-
-1. Clonar el repositorio
-2. Instalar las dependencias:
-```bash
-pip install pandas numpy matplotlib seaborn openpyxl
-```
-3. Abrir y ejecutar el notebook `notebooks/EDA_banco_marketing.ipynb`
